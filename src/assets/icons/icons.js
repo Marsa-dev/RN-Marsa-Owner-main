@@ -1,0 +1,28 @@
+const icons = {
+  backArrow:require('./backArrow.png'),
+  booking:require('./bookingIcon.png'),
+  destinations:require('./Destinations.png'),
+  gallery:require('./galleryIcon.png'),
+  heart:require('./heart.png'),
+  Home:require('./HomeIcon.png'),
+  notifications:require('./notification.png'),
+  profile:require('./profileIcon.png'),
+  search:require('./searchIcon.png'),
+  location:require('./location.png'),
+  currentLocation:require('./currentLocation.png'),
+  calander:require('./calander.png'),
+  clock:require('./clock.png'),
+  checkBox:require('./checkBox.png'),
+  emptyCheckBox: require('./emptyCheckBox.png'),
+  forwardIcon:require('./frowardIcon.png'),
+  profileImage:require('./profileImageIcon.png'),
+  redHeart:require('./redHeart.png'),
+  EmptyCircle:require("./EmptyCircle.png"),
+  fillCircle: require("./fillCircle.png"),
+  MyWallet:require('./MyWallet.png'),
+  boatLocation:require('./BoatLocation.png'),
+  plusIcon: require('./plusIcon.png'),
+  cross: require('./cross.png'),
+};
+
+export default icons;
